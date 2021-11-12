@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ImagesOnMyMind
 - 👀 I’m interested in data analysis in HR
 - 🌱 I’m currently learning R and basic data science, hoping to apply it in my job in operational HR (workforce planning)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any basic data projects about staffing and workforce planning
 - 📫 How to reach me: jarjan@gmail.com or images.on.my.mind on Instagram
 
 <!---
